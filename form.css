@@ -1,0 +1,102 @@
+html{
+    background-image: url(download.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav ul {
+    
+    background-color:rgb(240, 173, 115);
+    border-width: 3px ;
+    border-radius: 9px;
+    border-style:solid;
+    border-color: seashell;
+    padding: 10px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav li{
+    display: inline;
+}
+.moaz{
+    font-size: 19px;
+    color: rgb(131, 131, 37);
+    text-decoration: none;
+}
+body{
+    background: rgba(255,255,255,0.74);
+    margin:9px auto;
+    padding: 20px ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 900px;
+    border-radius: 20px;
+}
+h1,p{
+    text-align: center;
+    color: rgb(110, 104, 104)
+}
+label{
+    display: block;
+    margin: 0.332cm;
+}
+input {
+  display: inline;
+  background-color: rgb(252, 180, 117);
+  color: rgb(101, 101, 250);
+  font-size: 15px;
+  width: 100%;
+  padding: 0.3em;
+  border: solid 3px seashell;
+  border-radius: 8px;
+}
+input:focus{
+    background-color: rgba(255, 255, 255, 0.945);
+    border-color: rgb(247, 181, 119);
+}
+select{
+    background-color: rgb(191, 253, 179);
+    color: rgb(101, 101, 250);
+    font-size: 15px;
+    width: 100%;
+    padding: 0.3em;
+    border: solid 3px rgb(13, 176, 197);
+    border-radius: 8px;
+}
+input[type=checkbox],[type=radio]{
+    display: inline;
+    width: auto;
+}
+option{
+    color: rgba(35, 131, 99, 0.808);
+    width: auto;
+}
+.rrr{
+    width: 80%;
+    margin: 8px auto;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 17px;
+    background-color:rgb(2, 27, 250) ;
+}
+input[type=submit]:hover{
+    background-color: rgb(13, 176, 197);
+    outline: none;
+}
+input[type=submit]:focus{
+    background-color: rgb(158, 241, 202);
+    border: none;
+}
+input[type=reset]:hover{
+    background-color: rgb(240, 10, 10);
+    outline: none;
+}
+input[type=reset]:focus{
+    border: none;
+    background-color: rgb(16, 238, 71);
+}
+.moaz{
+    font-size: 19px;
+    color: rgb(131, 131, 37);
+    margin: 8px;
+    font-weight: bolder;
+}

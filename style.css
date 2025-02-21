@@ -1,0 +1,151 @@
+.lll{
+    background-color: rgb(255, 198, 148) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ss{
+   color: rgb(119, 116, 78);
+    margin-left: 7px;
+    text-align: center;
+    font-size: 30px;
+}
+.sss{
+    color: rgb(226, 69, 21);
+    margin-left: 7px;
+    text-align: center;
+    font-size: 30px;
+}
+nav ul {
+    
+    background-color:rgb(240, 173, 115);
+    border-width: 3px ;
+    border-radius: 9px;
+    border-style:solid;
+    border-color: seashell;
+    padding: 5px;
+    margin: 10px;
+}
+nav  li{
+    display: inline;
+}
+.moaz{
+    font-size: 19px;
+    color: rgb(131, 131, 37);
+    margin: 8px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+iframe{
+    width: 100%;
+    height: 600px;
+    border-radius: 40px;
+}
+img{
+    margin-left: 19px;
+    border-radius: 50px;
+    width: 600px;
+    height: 400px;
+}
+table,th ,td{
+    border:3px solid orange;
+}
+tr{
+  background-color:wheat;
+}
+th,td{
+  text-align: left ; 
+  padding:5px ; 
+  color: purple ;
+}
+audio{
+    margin-left:820px ;
+    margin-top: 10px;
+    font-size: 70px;
+}
+table{
+    margin-left: 10px;
+    margin-bottom: 60px;
+}
+h2{
+    margin-left: 5px;
+}
+.soliman{
+   margin-bottom: 19px;
+}
+.mohamed{
+    color: chocolate;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}.mohamed:visited{
+    color: rgb(247, 60, 13);
+    font-size: 25px;
+}
+.ahmed{
+    color: chocolate;
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.ahmed:visited{
+   color: rgb(173, 46, 7);
+    font-size: 20px;
+    margin-left: 20px;
+}
+.ali{
+    font-size: 20px;
+    color: chocolate;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.ali:visited{
+    font-size: 24px;
+    color: rgb(240, 53, 6);
+    margin-left: 20px;
+}
+.starday{
+    font-size: 18;
+    margin-left: 35px;
+    border-style: dotted;
+    border-color:rgb(31, 31, 97) ;
+    border-width: 3px;
+    border-radius: 15px;
+    color: rgb(5, 97, 97);
+}
+.starday:hover{
+    font-size: 20px;
+    margin-left: 35px;
+    border-style: dashed;
+    border-color: rgb(241, 99, 74);
+    border-width: 4px;
+    border-radius: 14px;
+    color:rgb(62, 106, 143) ;
+}
+.mondy{
+    font-size: large;
+    border: dashed 5.0px;
+    border-color:rgb(235, 134, 46); 
+    border-radius: 17px;
+    color: rgb(28, 133, 119);
+}
+.mondy:hover {
+    font-size: 21px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border-style:dotted;
+    border-color:rgb(66, 66, 151) ;
+    border-width: 5px;
+    border-radius: 15px;
+    color: rgb(255, 94, 0);  
+}
+.mmmmm{
+    font-weight: bolder;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+.friday{
+ margin-left: 10px;
+}
+.nnn{
+    background-color: white;
+}
+
